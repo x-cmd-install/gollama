@@ -7,7 +7,7 @@ about:
   head: a5849dc
   archived: false
   latestVersion: v2.0.5
-  collectedAt: 2026-09-04T19:36:20Z
+  collectedAt: 2026-09-04T20:54:00Z
 timeline:
   created: 2024-05-30
   lastCommit: 2026-07-20
@@ -41,7 +41,7 @@ recent:
     openPR: 2
     closedIssue: 0
     openIssue: 0
-    commit: 0
+    commit: 1
   last90d:
     since: 2026-06-06
     release: 1
@@ -49,7 +49,7 @@ recent:
     openPR: 2
     closedIssue: 0
     openIssue: 0
-    commit: 0
+    commit: 2
   last180d:
     since: 2026-03-08
     release: 1
@@ -57,7 +57,7 @@ recent:
     openPR: 2
     closedIssue: 2
     openIssue: 0
-    commit: 0
+    commit: 2
   last360d:
     since: 2025-09-09
     release: 10
@@ -65,7 +65,7 @@ recent:
     openPR: 2
     closedIssue: 9
     openIssue: 0
-    commit: 0
+    commit: 18
   last720d:
     since: 2024-09-14
     release: 66
@@ -82,5 +82,33 @@ total:
   openIssue: 0
   commit: 220
 ---
+path: /home/runner/.x-repo/github.com/sammcj/gollama
+collectedAt: 2026-09-04T20:54:02Z
+loc:
+  Go:
+    code: 5602
+    comments: 501
+    blanks: 866
+    files: 23
+  Makefile:
+    code: 75
+    comments: 8
+    blanks: 23
+    files: 1
+  Sh:
+    code: 31
+    comments: 8
+    blanks: 12
+    files: 1
+  Markdown:
+    code: 0
+    comments: 324
+    blanks: 108
+    files: 1
+total:
+  code: 5795
+  comments: 843
+  blanks: 1016
+  files: 26
 ---
 
