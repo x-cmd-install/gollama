@@ -1,11 +1,13 @@
 about:
-  description: Go manage your Ollama models
+  description:
+  |
+    Go manage your Ollama models
   license: MIT
   homepage: https://smcleod.net
   head: a5849dc
   archived: false
   latestVersion: v2.0.5
-  collectedAt: 2026-09-04T04:35:48Z
+  collectedAt: 2026-09-04T19:36:20Z
 timeline:
   created: 2024-05-30
   lastCommit: 2026-07-20
@@ -13,22 +15,30 @@ timeline:
 popularity:
   star: 1837
   watcher: 15
-  fork: 109
+  fork: 110
   release: 107
   contributor: 17
-  pullRequest: 24
+  pullRequest: 149
   issue: 87
 language:
   Go: 205722
   Makefile: 3666
   Shell: 1372
-totalLine: 210760
+totalBytes: 210760
 recent:
   last30d:
     since: 2026-08-05
     release: 0
     mergedPR: 0
-    openPR: 0
+    openPR: 1
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
+    release: 0
+    mergedPR: 1
+    openPR: 2
     closedIssue: 0
     openIssue: 0
     commit: 0
@@ -36,23 +46,41 @@ recent:
     since: 2026-06-06
     release: 1
     mergedPR: 1
-    openPR: 1
+    openPR: 2
     closedIssue: 0
     openIssue: 0
-    commit: 2
+    commit: 0
   last180d:
     since: 2026-03-08
     release: 1
     mergedPR: 1
-    openPR: 1
+    openPR: 2
     closedIssue: 2
     openIssue: 0
-    commit: 2
+    commit: 0
   last360d:
     since: 2025-09-09
     release: 10
     mergedPR: 12
-    openPR: 1
+    openPR: 2
     closedIssue: 9
     openIssue: 0
-    commit: 18
+    commit: 0
+  last720d:
+    since: 2024-09-14
+    release: 66
+    mergedPR: 63
+    openPR: 2
+    closedIssue: 50
+    openIssue: 0
+    commit: 103
+total:
+  release: 107
+  mergedPR: 124
+  openPR: 2
+  closedIssue: 87
+  openIssue: 0
+  commit: 220
+---
+---
+
