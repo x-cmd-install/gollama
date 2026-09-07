@@ -5,7 +5,7 @@ about:
   head: a5849dc
   archived: false
   latestVersion: "v2.0.5"
-  collectedAt: 2026-09-07T05:58:50Z
+  collectedAt: 2026-09-07T18:32:01Z
 timeline:
   created: 2024-05-30
   lastCommit: 2026-07-20
@@ -81,7 +81,7 @@ total:
   commit: 220
 ---
 path: /home/runner/.x-repo/github.com/sammcj/gollama
-collectedAt: 2026-09-07T05:58:51Z
+collectedAt: 2026-09-07T18:32:02Z
 loc:
   Go:
     code: 5602
@@ -112,7 +112,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:58:51+00:00
+  collectedAt: 2026-09-07T18:32:03+00:00
   platform:
     darwin/arm64:
       name:  gollama-macos.zip
