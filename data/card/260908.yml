@@ -5,7 +5,7 @@ about:
   head: a5849dc
   archived: false
   latestVersion: "v2.0.5"
-  collectedAt: 2026-09-08T03:10:15Z
+  collectedAt: 2026-09-08T06:02:15Z
 timeline:
   created: 2024-05-30
   lastCommit: 2026-07-20
@@ -81,7 +81,7 @@ total:
   commit: 220
 ---
 path: /home/runner/.x-repo/github.com/sammcj/gollama
-collectedAt: 2026-09-08T03:10:16Z
+collectedAt: 2026-09-08T06:02:16Z
 loc:
   Go:
     code: 5602
