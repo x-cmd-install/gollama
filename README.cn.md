@@ -4,13 +4,24 @@
 
 Go manage your Ollama models
 
-![gollama](https://repo.x-cmd.io/gollama.svg)
+![gollama](https://repo.x-cmd.io/gollama.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install gollama
 ```
+
+## 代码规模
+
+合计: **5,708** 行代码（覆盖前 5 种语言、共 **26** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 5,602 | 501 | 866 | 23 |
+| Makefile | 75 | 8 | 23 | 1 |
+| Sh | 31 | 8 | 12 | 1 |
+| Markdown | 0 | 324 | 108 | 1 |
 
 ## 源代码
 
@@ -23,7 +34,6 @@ x install gollama
 - **最新版本**: `v2.0.5` (2026-06-14)
 - **最近提交**: 2026-07-20
 - **Release 含资产**: 3 个
-- **发布时间**: 2026-06-14T11:35:22Z
 
 ## 流行度
 
@@ -38,19 +48,28 @@ x install gollama
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 1 | 2 | 0 | 0 | 1 |
 | 90d | 2026-06-12 | 1 | 1 | 2 | 0 | 0 | 1 |
+| last180d | 2026-03-14 | 1 | 1 | 2 | 2 | 0 | 2 |
 | 360d | 2025-09-15 | 10 | 12 | 2 | 9 | 0 | 16 |
+| last720d | 2024-09-20 | 65 | 63 | 2 | 48 | 0 | 100 |
 
-## 代码规模
+## Release 资产
 
-合计: **5,708** 行代码（覆盖前 5 种语言、共 **26** 个文件）。
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [gollama-linux-amd64.zip](https://github.com/sammcj/gollama/releases/download/v2.0.5/gollama-linux-amd64.zip) | 4.4 MiB | `native/linux/x64` |
+| [gollama-linux-arm64.zip](https://github.com/sammcj/gollama/releases/download/v2.0.5/gollama-linux-arm64.zip) | 3.9 MiB | `native/linux/arm64` |
+| [gollama-macos.zip](https://github.com/sammcj/gollama/releases/download/v2.0.5/gollama-macos.zip) | 4.1 MiB | `native/darwin/x64` |
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 5,602 | 501 | 866 | 23 |
-| Makefile | 75 | 8 | 23 | 1 |
-| Sh | 31 | 8 | 12 | 1 |
-| Markdown | 0 | 324 | 108 | 1 |
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/gollama) 上共有 **10** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**3** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `2.0.5` | ✅ latest |
+| Nix unstable | `2.0.5` | ✅ latest |
 
 ## 改进这些数据
 
@@ -61,4 +80,4 @@ gollama 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T06:06:53Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:19:58Z._
