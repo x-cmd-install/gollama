@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.0.5"
   latestRelease: "v2.0.5"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T06:06:45Z
+  collectedAt: 2026-09-10T18:02:25Z
 timeline:
   created: 2024-05-30
   lastCommit: 2026-07-20
@@ -85,7 +85,7 @@ total:
   commit: 220
 ---
 path: /home/runner/.x-repo/github.com/sammcj/gollama
-collectedAt: 2026-09-10T06:06:48Z
+collectedAt: 2026-09-10T18:02:27Z
 loc:
   Go:
     code: 5602
