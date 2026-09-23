@@ -4,7 +4,7 @@
 
 Go manage your Ollama models
 
-[![x-cmd/install — gollama Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gollama.svg)](https://x-cmd.com/install/gollama)
+[![x-cmd/install — gollama Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/gollama.svg)](https://x-cmd.com/install/gollama)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **5,708** lines of code across **26** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,835 · **Forks**: 113 · **Open issues**: 87 · **Contributors**: 17
+- **Stars**: 1,836 · **Forks**: 113 · **Open issues**: 87 · **Contributors**: 17
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **5,708** lines of code across **26** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 0 | 1 | 2 | 0 | 0 | 1 |
-| last180d | 2026-03-26 | 1 | 1 | 2 | 2 | 0 | 2 |
-| 360d | 2025-09-27 | 9 | 12 | 2 | 8 | 0 | 15 |
-| last720d | 2024-10-02 | 62 | 61 | 2 | 47 | 0 | 95 |
+| 30d | 2026-08-24 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 0 | 1 | 2 | 0 | 0 | 1 |
+| last180d | 2026-03-27 | 1 | 1 | 2 | 2 | 0 | 2 |
+| 360d | 2025-09-28 | 9 | 12 | 2 | 8 | 0 | 15 |
+| last720d | 2024-10-03 | 61 | 61 | 2 | 47 | 0 | 94 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for gollama lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:28:49Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:29:33Z._
