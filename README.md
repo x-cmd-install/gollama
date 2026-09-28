@@ -14,11 +14,11 @@ x install gollama
 
 ## Code insight
 
-Total: **5,708** lines of code across **26** files in the top 5 languages.
+Total: **5,747** lines of code across **27** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 5,602 | 501 | 866 | 23 |
+| Go | 5,641 | 503 | 873 | 24 |
 | Makefile | 75 | 8 | 23 | 1 |
 | Sh | 31 | 8 | 12 | 1 |
 | Markdown | 0 | 324 | 108 | 1 |
@@ -31,36 +31,36 @@ Total: **5,708** lines of code across **26** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.0.5` (2026-06-14)
-- **Last commit**: 2026-07-20
+- **Latest**: `v2.0.6` (2026-09-28)
+- **Last commit**: 2026-09-28
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 1,836 · **Forks**: 112 · **Open issues**: 87 · **Contributors**: 17
+- **Stars**: 1,837 · **Forks**: 113 · **Open issues**: 87 · **Contributors**: 18
 
 ## Totals (cumulative)
 
-- **Releases**: 107 · **Merged PRs**: 124 · **Open PRs**: 2 · **Closed issues**: 87 · **Open issues**: 0 · **Commits**: 220
+- **Releases**: 108 · **Merged PRs**: 125 · **Open PRs**: 3 · **Closed issues**: 87 · **Open issues**: 0 · **Commits**: 221
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-29 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-06-29 | 0 | 1 | 2 | 0 | 0 | 1 |
-| last180d | 2026-03-31 | 1 | 1 | 2 | 2 | 0 | 2 |
-| 360d | 2025-10-02 | 8 | 11 | 2 | 8 | 0 | 15 |
-| last720d | 2024-10-07 | 61 | 61 | 2 | 47 | 0 | 94 |
+| 30d | 2026-08-29 | 1 | 1 | 2 | 0 | 0 | 1 |
+| last60d | 2026-07-30 | 1 | 1 | 2 | 0 | 0 | 1 |
+| 90d | 2026-06-30 | 1 | 2 | 3 | 0 | 0 | 2 |
+| last180d | 2026-04-01 | 2 | 2 | 3 | 2 | 0 | 3 |
+| 360d | 2025-10-03 | 9 | 12 | 3 | 7 | 0 | 16 |
+| last720d | 2024-10-08 | 61 | 62 | 3 | 47 | 0 | 94 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [gollama-linux-amd64.zip](https://github.com/sammcj/gollama/releases/download/v2.0.5/gollama-linux-amd64.zip) | 4.4 MiB | `native/linux/x64` |
-| [gollama-linux-arm64.zip](https://github.com/sammcj/gollama/releases/download/v2.0.5/gollama-linux-arm64.zip) | 3.9 MiB | `native/linux/arm64` |
-| [gollama-macos.zip](https://github.com/sammcj/gollama/releases/download/v2.0.5/gollama-macos.zip) | 4.1 MiB | `native/darwin/x64` |
+| [gollama-linux-amd64.zip](https://github.com/sammcj/gollama/releases/download/v2.0.6/gollama-linux-amd64.zip) | 4.4 MiB | `native/linux/x64` |
+| [gollama-linux-arm64.zip](https://github.com/sammcj/gollama/releases/download/v2.0.6/gollama-linux-arm64.zip) | 3.9 MiB | `native/linux/arm64` |
+| [gollama-macos.zip](https://github.com/sammcj/gollama/releases/download/v2.0.6/gollama-macos.zip) | 4.1 MiB | `native/darwin/x64` |
 
 ## Improve this data
 
@@ -71,4 +71,4 @@ Install metadata for gollama lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T06:26:06Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:38:12Z._
