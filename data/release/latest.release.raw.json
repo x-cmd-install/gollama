@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4608790,
       "digest": "sha256:cc4693ebfd8850c404780cd3d822842b8a39989b4eac329e35cec9e74e7bf433",
-      "download_count": 0,
+      "download_count": 28,
       "created_at": "2026-09-28T06:10:17Z",
       "updated_at": "2026-09-28T06:10:18Z",
       "browser_download_url": "https://github.com/sammcj/gollama/releases/download/v2.0.6/gollama-linux-amd64.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4127528,
       "digest": "sha256:526a79d0d9c21d395fe2fdbd827076510790a1db3c4640ed7e31e37532178a90",
-      "download_count": 0,
+      "download_count": 5,
       "created_at": "2026-09-28T06:10:17Z",
       "updated_at": "2026-09-28T06:10:17Z",
       "browser_download_url": "https://github.com/sammcj/gollama/releases/download/v2.0.6/gollama-linux-arm64.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4279862,
       "digest": "sha256:050edbc191fbe665e6b558734fc12923e729d6e0b471488fbdc0628c944dbd18",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2026-09-28T06:10:16Z",
       "updated_at": "2026-09-28T06:10:16Z",
       "browser_download_url": "https://github.com/sammcj/gollama/releases/download/v2.0.6/gollama-macos.zip"
@@ -148,5 +148,17 @@
   "tarball_url": "https://api.github.com/repos/sammcj/gollama/tarball/v2.0.6",
   "zipball_url": "https://api.github.com/repos/sammcj/gollama/zipball/v2.0.6",
   "body": "### [2.0.6](https://github.com/sammcj/gollama/compare/vv2.0.5...v2.0.6) (2026-09-28)\n\n\n### Bug Fixes\n\n* keep VRAM context columns within the requested top ([#240](https://github.com/sammcj/gollama/issues/240)) ([32ca0f0](https://github.com/sammcj/gollama/commit/32ca0f0b21f00e3072934d3aa7466b651573c813))\n\n## What's Changed\n* Added missing https:// prefix to link in README by @groda in https://github.com/sammcj/gollama/pull/237\n* fix: keep VRAM context columns within the requested top by @SashaMIT in https://github.com/sammcj/gollama/pull/240\n\n## New Contributors\n* @groda made their first contribution in https://github.com/sammcj/gollama/pull/237\n* @SashaMIT made their first contribution in https://github.com/sammcj/gollama/pull/240\n\n**Full Changelog**: https://github.com/sammcj/gollama/compare/v2.0.5...v2.0.6",
+  "reactions": {
+    "url": "https://api.github.com/repos/sammcj/gollama/releases/397989143/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  },
   "mentions_count": 2
 }
