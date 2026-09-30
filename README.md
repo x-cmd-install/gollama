@@ -21,7 +21,7 @@ Total: **5,747** lines of code across **27** files in the top 5 languages.
 | Go | 5,641 | 503 | 873 | 24 |
 | Makefile | 75 | 8 | 23 | 1 |
 | Sh | 31 | 8 | 12 | 1 |
-| Markdown | 0 | 324 | 108 | 1 |
+| Markdown | 0 | 338 | 108 | 1 |
 
 ## Source
 
@@ -32,27 +32,27 @@ Total: **5,747** lines of code across **27** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.0.6` (2026-09-28)
-- **Last commit**: 2026-09-28
+- **Last commit**: 2026-09-30
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 1,837 · **Forks**: 113 · **Open issues**: 87 · **Contributors**: 18
+- **Stars**: 1,838 · **Forks**: 113 · **Open issues**: 87 · **Contributors**: 18
 
 ## Totals (cumulative)
 
-- **Releases**: 108 · **Merged PRs**: 125 · **Open PRs**: 3 · **Closed issues**: 87 · **Open issues**: 0 · **Commits**: 221
+- **Releases**: 108 · **Merged PRs**: 127 · **Open PRs**: 0 · **Closed issues**: 87 · **Open issues**: 0 · **Commits**: 223
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 1 | 1 | 2 | 0 | 0 | 1 |
-| last60d | 2026-07-31 | 1 | 1 | 2 | 0 | 0 | 1 |
-| 90d | 2026-07-01 | 1 | 2 | 3 | 0 | 0 | 2 |
-| last180d | 2026-04-02 | 2 | 2 | 3 | 2 | 0 | 3 |
-| 360d | 2025-10-04 | 9 | 12 | 3 | 7 | 0 | 16 |
-| last720d | 2024-10-09 | 61 | 62 | 3 | 47 | 0 | 94 |
+| 30d | 2026-08-31 | 1 | 2 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-01 | 1 | 2 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-02 | 1 | 4 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-03 | 2 | 4 | 0 | 2 | 0 | 0 |
+| 360d | 2025-10-05 | 9 | 14 | 0 | 7 | 0 | 0 |
+| last720d | 2024-10-10 | 61 | 63 | 0 | 47 | 0 | 96 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for gollama lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T07:03:25Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:44:42Z._
