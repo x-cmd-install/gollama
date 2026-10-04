@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4608790,
       "digest": "sha256:cc4693ebfd8850c404780cd3d822842b8a39989b4eac329e35cec9e74e7bf433",
-      "download_count": 47,
+      "download_count": 52,
       "created_at": "2026-09-28T06:10:17Z",
       "updated_at": "2026-09-28T06:10:18Z",
       "browser_download_url": "https://github.com/sammcj/gollama/releases/download/v2.0.6/gollama-linux-amd64.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4127528,
       "digest": "sha256:526a79d0d9c21d395fe2fdbd827076510790a1db3c4640ed7e31e37532178a90",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-09-28T06:10:17Z",
       "updated_at": "2026-09-28T06:10:17Z",
       "browser_download_url": "https://github.com/sammcj/gollama/releases/download/v2.0.6/gollama-linux-arm64.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4279862,
       "digest": "sha256:050edbc191fbe665e6b558734fc12923e729d6e0b471488fbdc0628c944dbd18",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-09-28T06:10:16Z",
       "updated_at": "2026-09-28T06:10:16Z",
       "browser_download_url": "https://github.com/sammcj/gollama/releases/download/v2.0.6/gollama-macos.zip"
