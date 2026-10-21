@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/sammcj/gollama/releases/397989143",
-  "assets_url": "https://api.github.com/repos/sammcj/gollama/releases/397989143/assets",
-  "upload_url": "https://uploads.github.com/repos/sammcj/gollama/releases/397989143/assets{?name,label}",
-  "html_url": "https://github.com/sammcj/gollama/releases/tag/v2.0.6",
-  "id": 397989143,
+  "url": "https://api.github.com/repos/sammcj/gollama/releases/419176134",
+  "assets_url": "https://api.github.com/repos/sammcj/gollama/releases/419176134/assets",
+  "upload_url": "https://uploads.github.com/repos/sammcj/gollama/releases/419176134/assets{?name,label}",
+  "html_url": "https://github.com/sammcj/gollama/releases/tag/v2.0.7",
+  "id": 419176134,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOMCr8Ws4XuNUX",
-  "tag_name": "v2.0.6",
+  "node_id": "RE_kwDOMCr8Ws4Y_B7G",
+  "tag_name": "v2.0.7",
   "target_commitish": "main",
-  "name": "Release v2.0.6",
+  "name": "Release v2.0.7",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-28T06:08:18Z",
-  "updated_at": "2026-09-28T06:10:18Z",
-  "published_at": "2026-09-28T06:10:15Z",
+  "created_at": "2026-10-21T04:59:25Z",
+  "updated_at": "2026-10-21T05:01:17Z",
+  "published_at": "2026-10-21T05:01:14Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/sammcj/gollama/releases/assets/594662882",
-      "id": 594662882,
-      "node_id": "RA_kwDOMCr8Ws4jcdXi",
+      "url": "https://api.github.com/repos/sammcj/gollama/releases/assets/661406246",
+      "id": 661406246,
+      "node_id": "RA_kwDOMCr8Ws4nbEIm",
       "name": "gollama-linux-amd64.zip",
       "label": "",
       "uploader": {
@@ -65,17 +65,17 @@
       },
       "content_type": "raw",
       "state": "uploaded",
-      "size": 4608790,
-      "digest": "sha256:cc4693ebfd8850c404780cd3d822842b8a39989b4eac329e35cec9e74e7bf433",
-      "download_count": 99,
-      "created_at": "2026-09-28T06:10:17Z",
-      "updated_at": "2026-09-28T06:10:18Z",
-      "browser_download_url": "https://github.com/sammcj/gollama/releases/download/v2.0.6/gollama-linux-amd64.zip"
+      "size": 5011335,
+      "digest": "sha256:b6c77db09e14d2581ebd3d590df29da7d38170e8c37f5ed67e1a995d54adbe7d",
+      "download_count": 5,
+      "created_at": "2026-10-21T05:01:16Z",
+      "updated_at": "2026-10-21T05:01:17Z",
+      "browser_download_url": "https://github.com/sammcj/gollama/releases/download/v2.0.7/gollama-linux-amd64.zip"
     },
     {
-      "url": "https://api.github.com/repos/sammcj/gollama/releases/assets/594662866",
-      "id": 594662866,
-      "node_id": "RA_kwDOMCr8Ws4jcdXS",
+      "url": "https://api.github.com/repos/sammcj/gollama/releases/assets/661406212",
+      "id": 661406212,
+      "node_id": "RA_kwDOMCr8Ws4nbEIE",
       "name": "gollama-linux-arm64.zip",
       "label": "",
       "uploader": {
@@ -101,17 +101,17 @@
       },
       "content_type": "raw",
       "state": "uploaded",
-      "size": 4127528,
-      "digest": "sha256:526a79d0d9c21d395fe2fdbd827076510790a1db3c4640ed7e31e37532178a90",
-      "download_count": 13,
-      "created_at": "2026-09-28T06:10:17Z",
-      "updated_at": "2026-09-28T06:10:17Z",
-      "browser_download_url": "https://github.com/sammcj/gollama/releases/download/v2.0.6/gollama-linux-arm64.zip"
+      "size": 4463641,
+      "digest": "sha256:57708f266e5b94b7cf2cb1836cfb0e551c7581057a9e3abb76d8609fff656437",
+      "download_count": 3,
+      "created_at": "2026-10-21T05:01:15Z",
+      "updated_at": "2026-10-21T05:01:16Z",
+      "browser_download_url": "https://github.com/sammcj/gollama/releases/download/v2.0.7/gollama-linux-arm64.zip"
     },
     {
-      "url": "https://api.github.com/repos/sammcj/gollama/releases/assets/594662841",
-      "id": 594662841,
-      "node_id": "RA_kwDOMCr8Ws4jcdW5",
+      "url": "https://api.github.com/repos/sammcj/gollama/releases/assets/661406194",
+      "id": 661406194,
+      "node_id": "RA_kwDOMCr8Ws4nbEHy",
       "name": "gollama-macos.zip",
       "label": "",
       "uploader": {
@@ -137,28 +137,15 @@
       },
       "content_type": "raw",
       "state": "uploaded",
-      "size": 4279862,
-      "digest": "sha256:050edbc191fbe665e6b558734fc12923e729d6e0b471488fbdc0628c944dbd18",
-      "download_count": 18,
-      "created_at": "2026-09-28T06:10:16Z",
-      "updated_at": "2026-09-28T06:10:16Z",
-      "browser_download_url": "https://github.com/sammcj/gollama/releases/download/v2.0.6/gollama-macos.zip"
+      "size": 4630689,
+      "digest": "sha256:b9f628f2a2bf168cb3443206ac108740d2fcff037ab045ebc46603cbbe6452bd",
+      "download_count": 1,
+      "created_at": "2026-10-21T05:01:15Z",
+      "updated_at": "2026-10-21T05:01:15Z",
+      "browser_download_url": "https://github.com/sammcj/gollama/releases/download/v2.0.7/gollama-macos.zip"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/sammcj/gollama/tarball/v2.0.6",
-  "zipball_url": "https://api.github.com/repos/sammcj/gollama/zipball/v2.0.6",
-  "body": "### [2.0.6](https://github.com/sammcj/gollama/compare/vv2.0.5...v2.0.6) (2026-09-28)\n\n\n### Bug Fixes\n\n* keep VRAM context columns within the requested top ([#240](https://github.com/sammcj/gollama/issues/240)) ([32ca0f0](https://github.com/sammcj/gollama/commit/32ca0f0b21f00e3072934d3aa7466b651573c813))\n\n## What's Changed\n* Added missing https:// prefix to link in README by @groda in https://github.com/sammcj/gollama/pull/237\n* fix: keep VRAM context columns within the requested top by @SashaMIT in https://github.com/sammcj/gollama/pull/240\n\n## New Contributors\n* @groda made their first contribution in https://github.com/sammcj/gollama/pull/237\n* @SashaMIT made their first contribution in https://github.com/sammcj/gollama/pull/240\n\n**Full Changelog**: https://github.com/sammcj/gollama/compare/v2.0.5...v2.0.6",
-  "reactions": {
-    "url": "https://api.github.com/repos/sammcj/gollama/releases/397989143/reactions",
-    "total_count": 1,
-    "+1": 1,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 0,
-    "confused": 0,
-    "heart": 0,
-    "rocket": 0,
-    "eyes": 0
-  },
-  "mentions_count": 2
+  "tarball_url": "https://api.github.com/repos/sammcj/gollama/tarball/v2.0.7",
+  "zipball_url": "https://api.github.com/repos/sammcj/gollama/zipball/v2.0.7",
+  "body": "### [2.0.7](https://github.com/sammcj/gollama/compare/vv2.0.6...v2.0.7) (2026-10-21)\n\n\n### Documentation\n\n* **contributor:** contributors readme action update ([#238](https://github.com/sammcj/gollama/issues/238)) ([2165f13](https://github.com/sammcj/gollama/commit/2165f137df9274d7a813360bd294de6065240ec0))\n* **contributor:** contributors readme action update ([#242](https://github.com/sammcj/gollama/issues/242)) ([168cddf](https://github.com/sammcj/gollama/commit/168cddf360ef38ad9e7a51c3c9a2c3254cea61db))\n\n## What's Changed\n* docs(contributor): contributors readme action update by @github-actions[bot] in https://github.com/sammcj/gollama/pull/238\n* docs(contributor): contributors readme action update by @github-actions[bot] in https://github.com/sammcj/gollama/pull/242\n\n\n**Full Changelog**: https://github.com/sammcj/gollama/compare/v2.0.6...v2.0.7"
 }
