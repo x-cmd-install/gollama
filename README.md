@@ -47,12 +47,12 @@ Total: **5,755** lines of code across **27** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 2 | 0 | 0 | 0 | 4 |
-| last60d | 2026-08-23 | 2 | 2 | 0 | 0 | 0 | 4 |
-| 90d | 2026-07-24 | 2 | 2 | 0 | 0 | 0 | 4 |
-| last180d | 2026-04-25 | 3 | 4 | 0 | 0 | 0 | 6 |
-| 360d | 2025-10-27 | 10 | 14 | 0 | 5 | 0 | 19 |
-| last720d | 2024-11-01 | 57 | 60 | 0 | 47 | 0 | 90 |
+| 30d | 2026-09-23 | 2 | 2 | 0 | 0 | 0 | 4 |
+| last60d | 2026-08-24 | 2 | 2 | 0 | 0 | 0 | 4 |
+| 90d | 2026-07-25 | 2 | 2 | 0 | 0 | 0 | 4 |
+| last180d | 2026-04-26 | 3 | 4 | 0 | 0 | 0 | 6 |
+| 360d | 2025-10-28 | 10 | 14 | 0 | 5 | 0 | 19 |
+| last720d | 2024-11-02 | 57 | 60 | 0 | 47 | 0 | 90 |
 
 ## Release assets
 
@@ -61,6 +61,15 @@ Total: **5,755** lines of code across **27** files in the top 5 languages.
 | [gollama-linux-amd64.zip](https://github.com/sammcj/gollama/releases/download/v2.0.7/gollama-linux-amd64.zip) | 4.8 MiB | `native/linux/x64` |
 | [gollama-linux-arm64.zip](https://github.com/sammcj/gollama/releases/download/v2.0.7/gollama-linux-arm64.zip) | 4.3 MiB | `native/linux/arm64` |
 | [gollama-macos.zip](https://github.com/sammcj/gollama/releases/download/v2.0.7/gollama-macos.zip) | 4.4 MiB | `native/darwin/x64` |
+
+## Distribution status
+
+Reported by **10** distros on [repology.org](https://repology.org/project/gollama). **4** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `2.0.7` | ✅ latest |
+| Nix unstable | `2.0.6` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -71,4 +80,4 @@ Install metadata for gollama lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:55:26Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:55:52Z._
