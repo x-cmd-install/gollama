@@ -96,9 +96,9 @@
 - repo: nix_unstable
   srcname: gollama
   visiblename: gollama
-  version: 2.0.6
+  version: 2.0.7
   origversion: null
-  status: outdated
+  status: newest
   summary: Go manage your Ollama models
   maintainers:
     - genga898@gmail.com
