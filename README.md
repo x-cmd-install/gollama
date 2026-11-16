@@ -47,12 +47,12 @@ Total: **5,755** lines of code across **27** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-16 | 2 | 2 | 0 | 0 | 0 | 4 |
-| 90d | 2026-08-17 | 2 | 2 | 0 | 0 | 0 | 4 |
-| last180d | 2026-05-19 | 3 | 4 | 0 | 0 | 0 | 6 |
-| 360d | 2025-11-20 | 8 | 12 | 0 | 5 | 0 | 16 |
-| last720d | 2024-11-25 | 54 | 57 | 0 | 40 | 0 | 87 |
+| 30d | 2026-10-17 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-17 | 2 | 2 | 0 | 0 | 0 | 4 |
+| 90d | 2026-08-18 | 2 | 2 | 0 | 0 | 0 | 4 |
+| last180d | 2026-05-20 | 3 | 4 | 0 | 0 | 0 | 6 |
+| 360d | 2025-11-21 | 8 | 12 | 0 | 5 | 0 | 16 |
+| last720d | 2024-11-26 | 52 | 55 | 0 | 39 | 0 | 85 |
 
 ## Release assets
 
@@ -64,12 +64,12 @@ Total: **5,755** lines of code across **27** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **10** distros on [repology.org](https://repology.org/project/gollama). **4** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+Reported by **10** distros on [repology.org](https://repology.org/project/gollama). **5** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `2.0.7` | ✅ latest |
-| Nix unstable | `2.0.6` | ⚠️ outdated |
+| Nix unstable | `2.0.7` | ✅ latest |
 
 ## Improve this data
 
@@ -80,4 +80,4 @@ Install metadata for gollama lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T08:18:37Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:31:18Z._
