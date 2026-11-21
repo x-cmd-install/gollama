@@ -37,7 +37,7 @@ Total: **5,755** lines of code across **27** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,848 · **Forks**: 112 · **Open issues**: 87 · **Contributors**: 18
+- **Stars**: 1,849 · **Forks**: 112 · **Open issues**: 87 · **Contributors**: 18
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **5,755** lines of code across **27** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-21 | 2 | 2 | 0 | 0 | 0 | 4 |
-| 90d | 2026-08-22 | 2 | 2 | 0 | 0 | 0 | 4 |
-| last180d | 2026-05-24 | 3 | 4 | 0 | 0 | 0 | 6 |
-| 360d | 2025-11-25 | 8 | 12 | 0 | 5 | 0 | 16 |
-| last720d | 2024-11-30 | 50 | 55 | 0 | 39 | 0 | 81 |
+| 30d | 2026-10-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-22 | 2 | 2 | 0 | 0 | 0 | 4 |
+| 90d | 2026-08-23 | 2 | 2 | 0 | 0 | 0 | 4 |
+| last180d | 2026-05-25 | 3 | 4 | 0 | 0 | 0 | 6 |
+| 360d | 2025-11-26 | 8 | 12 | 0 | 5 | 0 | 16 |
+| last720d | 2024-12-01 | 50 | 55 | 0 | 39 | 0 | 81 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for gollama lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T10:26:47Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:51:12Z._
